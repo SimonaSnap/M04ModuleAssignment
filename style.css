@@ -3,5 +3,29 @@ h1 {
 }
 
 body {
-    background-image: none;
+    background-image: url("https://th.bing.com/th/id/OIP.9gd0fSmGN0Ieqee8Uopo6QHaEu?w=285&h=182&c=7&r=0&o=5&pid=1.7");
+}
+
+#nav {
+    background-color: rgb(196, 152, 244);
+}
+
+#feature {
+    background-color: aliceblue;
+}
+
+.column1 {
+    background-color: aqua;
+}
+
+.column2 {
+    background-color: aquamarine;
+}
+
+.column3 {
+    background-color: rgb(132, 82, 157);
+}
+
+#footer {
+    background-color: blueviolet;
 }
