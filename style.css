@@ -1,6 +1,6 @@
 * {
     font-family: Arial, Verdana, sans-serif;
-    color: #2f7907;
+    color: #000000;
     text-align: center;
 }
 
@@ -12,6 +12,7 @@ body {
 
 h1 {
     font-family: 'FantasqueSansMonoRegular';
+    color: #2f7907
 }
 
 #content {
